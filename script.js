@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const products = [
     {
-      name: "Camisa Brasil 26/27 Jogador",
+      name: "Camisa Brasil ",
       category: "selecoes",
       categoryLabel: "Seleções",
       oldPrice: "R$239,90",
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
       promo: true
     },
     {
-      name: "Camisa Argentina Edição Especial 2025",
+      name: "Camisa Argentina Edição Especial ",
       category: "selecoes",
       categoryLabel: "Seleções",
       oldPrice: "R$239,90",
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       promo: true
     },
     {
-      name: "Camisa França 25/26 Jogador",
+      name: "Camisa França ",
       category: "selecoes",
       categoryLabel: "Seleções",
       oldPrice: "R$239,90",
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
       promo: true
     },
     {
-      name: "Camisa Portugal II 2026",
+      name: "Camisa Portugal ",
       category: "selecoes",
       categoryLabel: "Seleções",
       oldPrice: "R$239,90",
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
       promo: true
     },
     {
-      name: "Camisa Flamengo 25/26",
+      name: "Camisa Flamengo ",
       category: "clubes",
       categoryLabel: "Clubes",
 	  oldPrice: "179,90",
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "catalogorfct/camisaflamengo.png"
     },
     {
-      name: "Camisa Corinthians I 25/26",
+      name: "Camisa Corinthians ",
       category: "clubes",
       categoryLabel: "Clubes",
 	  oldPrice: "179,90",
@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "catalogorfct/camisacorinthians26preta.png"
     },
     {
-      name: "Camisa Real Madrid 25",
+      name: "Camisa Real Madrid ",
       category: "clubes",
       categoryLabel: "Clubes",
 	  oldPrice:"179,90",
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "catalogorfct/camisarealmadridbranca.png"
     },
     {
-      name: "Camisa São Paulo 25/26",
+      name: "Camisa São Paulo ",
       category: "clubes",
       categoryLabel: "Clubes",
 	  oldPrice: "179,90",
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "catalogorfct/bulls.png"
     },
     {
-      name: "Camisa Brasil Feminina 26/27",
+      name: "Camisa Brasil Feminina ",
       category: "feminino",
       categoryLabel: "Feminino",
 	  oldPrice: "209,90",
@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "catalogorfct/brasil2feminina.png"
     },
     {
-      name: "Kit Infantil Barcelona 25/26",
+      name: "Kit Infantil Barcelona ",
       category: "infantil",
       categoryLabel: "Infantil",
 	  oldPrice: "209,90",
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "catalogorfct/infantilbarcelona26.png"
     },
 	{
-      name: "Camisa São Paulo Feminina 25",
+      name: "Camisa São Paulo Feminina ",
       category: "feminino",
       categoryLabel: "feminino",
 	  oldPrice: "179,90",
@@ -142,7 +142,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		image:"catalogorfct/santoscharliebrown.png"
 	},
 	{
-		name:"Corinthians-AllBlack 24",
+		name:"Corinthians-AllBlack ",
 		category:"clubes",
 		categoryLabel:"Clubes",
 		oldPrice:"249,90",
@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		image:"catalogorfct/corinthiansallblack.png"
 	},
 	{
-		name:"Camisa Alemanhã 24/25 Preta",
+		name:"Camisa Alemanhã ",
 		category:"selecoes",
 		categoryLabel:"Seleções",
 		oldPrice:"249,90",
@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		image:"catalogorfct/alemanha26.png"
 	},
 	{
-		name:"Camisa Vasco Branca 26/27",
+		name:"Camisa Vasco Branca",
 		category:"clubes",
 		categoryLabel:"Clubes",
 		oldPrice:"169,90",
@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		image:"catalogorfct/vasco26bran.png"
 	},
 	{
-		name:"Camisa Fluminense Branca 26/27",
+		name:"Camisa Fluminense Branca",
 		category:"clubes",
 		categoryLabel:"Clubes",
 		oldPrice:"169,90",
@@ -178,7 +178,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		image:"catalogorfct/flu27.png"
 	},
 	{
-		name:"Camisa Fluminense Feminina Branca 26/27",
+		name:"Camisa Fluminense Feminina Branca",
 		category:"feminino",
 		categoryLabel:"feminino",
 		oldPrice:"169,90",
